@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔥 Bienvenido a HisteriaDocs](README.md)
-  * [Discord](https://www.discord.histeriaservers.com.ar)
+  * [Discord](https://discord.histeriaservers.com.ar)
   * [🔥 HisteriaServers](https://www.histeriaservers.com.ar)
 
 ## CS2
